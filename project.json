@@ -1,0 +1,15 @@
+{
+  "project": "Allegra Gestão Pro ERP",
+  "version": "0.4.0",
+  "kind": "Windows 10 LAN intranet single-admin",
+  "frontend": "HTML/CSS/JavaScript",
+  "backend": "Node.js + Express",
+  "service": "Windows Service via node-windows",
+  "database": "Existing PostgreSQL on 127.0.0.1:5432",
+  "authentication": "bcrypt password hash + JWT 8h",
+  "network": "LAN only TCP 3000; PostgreSQL not exposed",
+  "startup": "Automatic Windows service",
+  "no_docker": true,
+  "no_supabase": true,
+  "no_vercel": true
+}

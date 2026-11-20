@@ -1,0 +1,31 @@
+<service>
+	<id>allegragestaopro.exe</id>
+	<name>AllegraGestaoPro</name>
+	<description>Allegra Gestão Pro ERP - intranet privada da Allegra</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<argument>D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js</argument>
+	<argument>--scriptoptions=</argument>
+	<argument>--log</argument>
+	<argument>AllegraGestaoPro wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.5</argument>
+	<argument>--wait</argument>
+	<argument>2</argument>
+	<argument>--maxrestarts</argument>
+	<argument>10</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<logmode>rotate</logmode>
+	<stoptimeout>30sec</stoptimeout>
+	<env name="NODE_ENV" value="production"/>
+	<serviceaccount>
+		<domain>DESKTOP-3JEQ5UH</domain>
+		<user>LocalSystem</user>
+		<password></password>
+	</serviceaccount>
+	<workingdirectory>D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro</workingdirectory>
+</service>

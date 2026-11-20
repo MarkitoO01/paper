@@ -1,0 +1,120 @@
+2026-11-15 18:44:46 - Starting C:\Program Files\nodejs\node.exe  D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js --file D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js --scriptoptions= --log "AllegraGestaoPro wrapper" --grow 0.5 --wait 2 --maxrestarts 10 --abortonerror n --stopparentfirst undefined
+2026-11-15 18:44:46 - Started 5044
+2026-11-15 18:45:56 - Stopping allegragestaopro.exe
+2026-11-15 18:45:56 - ProcessKill 5044
+2026-11-15 18:45:57 - Found child process: 11024 Name: conhost.exe
+2026-11-15 18:45:57 - Stopping process 11024
+2026-11-15 18:45:57 - Send SIGINT 11024
+2026-11-15 18:45:57 - SIGINT to 11024 failed - Killing as fallback
+2026-11-15 18:45:57 - Stopping process 5044
+2026-11-15 18:45:57 - Send SIGINT 5044
+2026-11-15 18:45:57 - SIGINT to 5044 failed - Killing as fallback
+2026-11-15 18:45:57 - Finished allegragestaopro.exe
+2026-11-15 18:45:59 - Starting C:\Program Files\nodejs\node.exe  D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js --file D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js --scriptoptions= --log "AllegraGestaoPro wrapper" --grow 0.5 --wait 2 --maxrestarts 10 --abortonerror n --stopparentfirst undefined
+2026-11-15 18:45:59 - Started 18816
+2026-11-15 18:51:59 - Stopping allegragestaopro.exe
+2026-11-15 18:51:59 - ProcessKill 18816
+2026-11-15 18:51:59 - Found child process: 1848 Name: conhost.exe
+2026-11-15 18:51:59 - Stopping process 1848
+2026-11-15 18:51:59 - Send SIGINT 1848
+2026-11-15 18:51:59 - SIGINT to 1848 failed - Killing as fallback
+2026-11-15 18:51:59 - Stopping process 18816
+2026-11-15 18:51:59 - Send SIGINT 18816
+2026-11-15 18:51:59 - SIGINT to 18816 failed - Killing as fallback
+2026-11-15 18:51:59 - Finished allegragestaopro.exe
+2026-11-15 18:52:01 - Starting C:\Program Files\nodejs\node.exe  D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js --file D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js --scriptoptions= --log "AllegraGestaoPro wrapper" --grow 0.5 --wait 2 --maxrestarts 10 --abortonerror n --stopparentfirst undefined
+2026-11-15 18:52:01 - Started 1948
+2026-11-15 18:54:09 - Stopping allegragestaopro.exe
+2026-11-15 18:54:09 - ProcessKill 1948
+2026-11-15 18:54:09 - Found child process: 4140 Name: conhost.exe
+2026-11-15 18:54:09 - Found child process: 18036 Name: node.exe
+2026-11-15 18:54:09 - Stopping process 4140
+2026-11-15 18:54:09 - Send SIGINT 4140
+2026-11-15 18:54:09 - SIGINT to 4140 failed - Killing as fallback
+2026-11-15 18:54:09 - Stopping process 18036
+2026-11-15 18:54:09 - Send SIGINT 18036
+2026-11-15 18:54:09 - SIGINT to 18036 failed - Killing as fallback
+2026-11-15 18:54:09 - Stopping process 1948
+2026-11-15 18:54:09 - Send SIGINT 1948
+2026-11-15 18:54:09 - SIGINT to 1948 failed - Killing as fallback
+2026-11-15 18:54:09 - Finished allegragestaopro.exe
+2026-11-15 18:54:11 - Starting C:\Program Files\nodejs\node.exe  D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js --file D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js --scriptoptions= --log "AllegraGestaoPro wrapper" --grow 0.5 --wait 2 --maxrestarts 10 --abortonerror n --stopparentfirst undefined
+2026-11-15 18:54:11 - Started 3936
+2026-11-15 18:55:46 - Stopping allegragestaopro.exe
+2026-11-15 18:55:46 - ProcessKill 3936
+2026-11-15 18:55:46 - Found child process: 12336 Name: conhost.exe
+2026-11-15 18:55:46 - Found child process: 16048 Name: node.exe
+2026-11-15 18:55:46 - Stopping process 12336
+2026-11-15 18:55:46 - Send SIGINT 12336
+2026-11-15 18:55:46 - SIGINT to 12336 failed - Killing as fallback
+2026-11-15 18:55:46 - Stopping process 16048
+2026-11-15 18:55:46 - Send SIGINT 16048
+2026-11-15 18:55:46 - SIGINT to 16048 failed - Killing as fallback
+2026-11-15 18:55:46 - Stopping process 3936
+2026-11-15 18:55:46 - Send SIGINT 3936
+2026-11-15 18:55:46 - SIGINT to 3936 failed - Killing as fallback
+2026-11-15 18:55:46 - Finished allegragestaopro.exe
+2026-11-15 18:55:48 - Starting C:\Program Files\nodejs\node.exe  D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js --file D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js --scriptoptions= --log "AllegraGestaoPro wrapper" --grow 0.5 --wait 2 --maxrestarts 10 --abortonerror n --stopparentfirst undefined
+2026-11-15 18:55:48 - Started 19168
+2026-11-15 23:14:28 - Stopping allegragestaopro.exe
+2026-11-15 23:14:28 - ProcessKill 19168
+2026-11-15 23:14:29 - Found child process: 6412 Name: conhost.exe
+2026-11-15 23:14:29 - Found child process: 17472 Name: node.exe
+2026-11-15 23:14:29 - Stopping process 6412
+2026-11-15 23:14:29 - Send SIGINT 6412
+2026-11-15 23:14:29 - SIGINT to 6412 failed - Killing as fallback
+2026-11-15 23:14:29 - Stopping process 17472
+2026-11-15 23:14:29 - Send SIGINT 17472
+2026-11-15 23:14:29 - SIGINT to 17472 failed - Killing as fallback
+2026-11-15 23:14:29 - Stopping process 19168
+2026-11-15 23:14:29 - Send SIGINT 19168
+2026-11-15 23:14:29 - SIGINT to 19168 failed - Killing as fallback
+2026-11-15 23:14:29 - Finished allegragestaopro.exe
+2026-11-15 23:14:31 - Starting C:\Program Files\nodejs\node.exe  D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js --file D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js --scriptoptions= --log "AllegraGestaoPro wrapper" --grow 0.5 --wait 2 --maxrestarts 10 --abortonerror n --stopparentfirst undefined
+2026-11-15 23:14:31 - Started 11840
+2026-11-15 23:40:40 - Stopping allegragestaopro.exe
+2026-11-15 23:40:40 - ProcessKill 11840
+2026-11-15 23:40:40 - Found child process: 19588 Name: conhost.exe
+2026-11-15 23:40:40 - Found child process: 20504 Name: node.exe
+2026-11-15 23:40:40 - Stopping process 19588
+2026-11-15 23:40:40 - Send SIGINT 19588
+2026-11-15 23:40:40 - SIGINT to 19588 failed - Killing as fallback
+2026-11-15 23:40:40 - Stopping process 20504
+2026-11-15 23:40:40 - Send SIGINT 20504
+2026-11-15 23:40:40 - SIGINT to 20504 failed - Killing as fallback
+2026-11-15 23:40:40 - Stopping process 11840
+2026-11-15 23:40:40 - Send SIGINT 11840
+2026-11-15 23:40:40 - SIGINT to 11840 failed - Killing as fallback
+2026-11-15 23:40:40 - Finished allegragestaopro.exe
+2026-11-15 23:40:42 - Starting C:\Program Files\nodejs\node.exe  D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js --file D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js --scriptoptions= --log "AllegraGestaoPro wrapper" --grow 0.5 --wait 2 --maxrestarts 10 --abortonerror n --stopparentfirst undefined
+2026-11-15 23:40:42 - Started 17640
+2026-11-16 16:03:55 - Stopping allegragestaopro.exe
+2026-11-16 16:03:55 - ProcessKill 17640
+2026-11-16 16:03:55 - Shutdown exception
+Message:O sistema está sendo desligado.
+
+Stacktrace:   em System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   em System.Management.ManagementScope.InitializeGuts(Object o)
+   em System.Management.ManagementScope.Initialize()
+   em System.Management.ManagementObjectSearcher.Initialize()
+   em System.Management.ManagementObjectSearcher.Get()
+   em winsw.WrapperService.GetChildPids(Int32 pid)
+   em winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   em winsw.WrapperService.StopIt()
+   em winsw.WrapperService.OnShutdown()
+2026-11-16 16:04:20 - Starting C:\Program Files\nodejs\node.exe  D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\node-windows\lib\wrapper.js --file D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\server.js --scriptoptions= --log "AllegraGestaoPro wrapper" --grow 0.5 --wait 2 --maxrestarts 10 --abortonerror n --stopparentfirst undefined
+2026-11-16 16:04:20 - Started 5712
+2026-11-19 21:55:13 - Stopping allegragestaopro.exe
+2026-11-19 21:55:13 - ProcessKill 5712
+2026-11-19 21:55:13 - Found child process: 5724 Name: conhost.exe
+2026-11-19 21:55:13 - Found child process: 5628 Name: node.exe
+2026-11-19 21:55:13 - Stopping process 5724
+2026-11-19 21:55:13 - Send SIGINT 5724
+2026-11-19 21:55:13 - SIGINT to 5724 failed - Killing as fallback
+2026-11-19 21:55:13 - Stopping process 5628
+2026-11-19 21:55:13 - Send SIGINT 5628
+2026-11-19 21:55:13 - SIGINT to 5628 failed - Killing as fallback
+2026-11-19 21:55:13 - Stopping process 5712
+2026-11-19 21:55:13 - Send SIGINT 5712
+2026-11-19 21:55:13 - SIGINT to 5712 failed - Killing as fallback
+2026-11-19 21:55:13 - Finished allegragestaopro.exe

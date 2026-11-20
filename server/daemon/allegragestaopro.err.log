@@ -1,0 +1,312 @@
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22
+if(!JWT_SECRET||JWT_SECRET.length<32) throw new Error('JWT_SECRET precisa ter pelo menos 32 caracteres.');
+                                            ^
+
+Error: JWT_SECRET precisa ter pelo menos 32 caracteres.
+    at file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:22:45
+    at ModuleJob.run (node:internal/modules/esm/module_job:569:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async node:internal/modules/esm/loader:650:26
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:105:5)
+
+Node.js v26.13.1
+Falha ao salvar alterações relacionais: error: sintaxe de entrada é inválida para tipo date: "Mon Nov 16"
+    at D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\pg\lib\client.js:694:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async upsertProduction (file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:54:3)
+    at async upsertChanges (file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:78:2)
+    at async file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:120:276 {
+  length: 168,
+  severity: 'ERRO',
+  code: '22007',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: "parâmetro de portal sem nome $11 = '...'",
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'datetime.c',
+  line: '4029',
+  routine: 'DateTimeParseError'
+}
+Falha ao salvar alterações relacionais: error: sintaxe de entrada é inválida para tipo date: "Mon Nov 16"
+    at D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\pg\lib\client.js:694:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async upsertProduction (file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:54:3)
+    at async upsertChanges (file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:78:2)
+    at async file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:120:276 {
+  length: 168,
+  severity: 'ERRO',
+  code: '22007',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: "parâmetro de portal sem nome $11 = '...'",
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'datetime.c',
+  line: '4029',
+  routine: 'DateTimeParseError'
+}
+Falha ao salvar alterações relacionais: error: sintaxe de entrada é inválida para tipo date: "Mon Nov 16"
+    at D:\Allegra_Gestao_Pro_Online\allegra-gestao-pro\server\node_modules\pg\lib\client.js:694:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async upsertProduction (file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:54:3)
+    at async upsertChanges (file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:78:2)
+    at async file:///D:/Allegra_Gestao_Pro_Online/allegra-gestao-pro/server/server.js:120:276 {
+  length: 168,
+  severity: 'ERRO',
+  code: '22007',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: "parâmetro de portal sem nome $11 = '...'",
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'datetime.c',
+  line: '4029',
+  routine: 'DateTimeParseError'
+}
